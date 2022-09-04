@@ -1,2 +1,1 @@
-# Resume
-Resume
+Junior QA автоматизатор
